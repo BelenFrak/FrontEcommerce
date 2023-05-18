@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    min-height: 100vh;
+}
+.container{
+    margin-top: 20px;
+}
+
+.prueba{
+    background-color: blue;
+    display: inline-block;
+    height: 100%;
+
+}
+ #instagram{
+    background-color: #ac2bac;
+ }
+ #facebook{
+    background-color: #3b5998;
+ }
+ #whastapp{
+    background-color: #00ca1b;
+ }
